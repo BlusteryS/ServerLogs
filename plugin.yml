@@ -1,0 +1,14 @@
+name: SystemLogs
+author: BlusterySasha
+main: System\Main\Main
+version: 0.0.1
+api: 3.0.0
+
+commands:
+  info:
+    description: "Информация о игроке"
+    permission: info.use
+
+permissions:
+  info.use:
+    default: op
