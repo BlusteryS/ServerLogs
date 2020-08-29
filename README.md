@@ -6,8 +6,3 @@
 * Ядро: [PMMP](https://github.com/pmmp/PocketMine-MP/)
 * Версия плагина: 0.0.1
 * Зависимости: [FormAPI](https://github.com/jojoe77777/FormAPI)
-
-## API
-`$plugin = $this->getServer()->getPluginManager()->getPlugin("SystemLogs");`
-* `$plugin->writePlayer("Текст", "Ник"); // Записать действие игрока.`
-* `$plugin->writeServer("Текст"); // Записать действие сервера.`
