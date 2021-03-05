@@ -6,9 +6,9 @@ api: 3.0.0
 
 commands:
   info:
-    description: "Информация о игроке"
-    permission: info.use
+    description: "Player/Server info"
+    permission: system.info
 
 permissions:
-  info.use:
+  system.info:
     default: op
