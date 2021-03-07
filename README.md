@@ -1,8 +1,7 @@
 # ServerLogs
-Записывает действия игроков на ваших серверах.
+Logs the actions of players on your servers. 
 
-# Информация
-* Версия: 1.11 и выше
-* Ядро: [PMMP](https://github.com/pmmp/PocketMine-MP/)
-* Версия плагина: 0.0.1
-* Зависимости: [FormAPI](https://github.com/jojoe77777/FormAPI)
+# Info
+* Version: 1.11-1.16
+* Plugin version: 0.0.1
+* Dependencies: [FormAPI](https://github.com/jojoe77777/FormAPI)
